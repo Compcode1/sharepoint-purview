@@ -1,7 +1,7 @@
 # Microsoft Purview File-Level Encryption for SharePoint Online
 
 ## Description
-Deploys file-level cryptographic protection for PII within SharePoint Online using Microsoft Purview. It ensures sensitive files remain encrypted and accessible only to authorized users, shifting security from the site container boundary directly into the file metadata itself.
+Deploys file-level cryptographic protection for PII within SharePoint Online using Microsoft Purview. It ensures sensitive files remain encrypted and accessible only to authorized users, shifting security from the site container boundary directly into the file metadata itself.(Sensitivity Labels)
 
 ---
 
